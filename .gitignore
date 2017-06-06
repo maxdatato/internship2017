@@ -138,5 +138,8 @@ crashlytics-build.properties
 fabric.properties
 /docker/my-requirements.txt
 /docker/my-environment.yml
+<<<<<<< HEAD
 ./Challenges/core
 ./Challenges/core
+=======
+>>>>>>> 2eafc6f3196a16c1a78bccfe1d2e4fa82707951b
